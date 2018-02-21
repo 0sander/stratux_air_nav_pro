@@ -95,4 +95,6 @@ Select Levil AHRS G Mini:
 And change the settings as shown above. The sensors should now turn green and you should have working GPS, AHRS and traffic in Air Navigation Pro.
 
 ## Note
-Changing the port to anything but the 4000 default is no longer officially supported by Stratux as companies like Xample should support Stratux / GDL90 instead. 
+- Changing the port to anything but the 4000 default is no longer officially supported by Stratux as companies like Xample should support Stratux / GDL90 instead. 
+
+- So far I did not get the baro to work.
